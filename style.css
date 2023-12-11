@@ -1,0 +1,194 @@
+/*body-section*/
+body{
+    font-family: 'Work Sans', sans-serif; 
+    
+}
+
+/*header-section*/
+.header{
+    background-image: url(images/banner/banner2.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 800px;
+    width: 1470px;
+}
+/*banner*/
+.banner{
+    margin-left: 845px;
+    height: 700px;
+    width: 525px;
+    line-height: auto;
+    text-align: right;
+    text-align: top;
+    
+    
+}
+.banner-description{
+    width:525px ;
+    padding-top: 150px;
+    font-size:30px;
+    font-weight:800 ;
+
+    
+}
+.banner-description-2{
+    width:494px ;
+    font-size:15px ;
+    margin-left: 30px;
+    font-weight: 5px;
+    color: #1b1b1b;
+    
+}
+/*button-section*/
+.buttonsection{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-1{
+    height: 64px;
+    width: 160px;
+    background-color:#f15b22;
+    color: #ffffff;
+    border-radius: 5px;
+    border: 0;
+     font-size:20px ; 
+     margin-top: 20px;  
+}
+.btn-2{
+    height: 64px;
+    width: 160px;
+    color:#f15b22;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 0;
+    font-size:20px ;
+        
+}
+.btn-3{
+    height: 64px;
+    width: 160px;
+    color:#f15b22;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 0;
+    float: right;  
+    font-size:23px ;  
+}
+.btn-4{
+    height:64px;
+    width: 280px;
+    color:#ffffff;
+    background-color: #000000;
+    border-radius: 5px;
+    border: 2px solid white;
+     font-size:16px ;  
+     display: flex;
+     justify-content: left;
+     align-items: center;
+}
+/*main-section*/
+.first-section{
+    height:723.3px ;
+    width: 1072px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.person{
+    height: 723.3px;
+    width: 569px;
+}
+.failures{
+    height: 400px;
+    width: 416px;
+    margin-left: 87px;
+
+}
+.para{
+    font-size:25px ;
+    font-weight: 900px;
+    
+}
+.contrary{
+    font-size:15px ;
+    font-weight: 5px;
+    color: #1b1b1b;  
+    
+}
+/*list-style*/
+ul{
+    list-style-type: disc;
+    font-size:15px ;
+    font-weight: 5px;
+    color: #1b1b1b;
+}
+/*section-02*/
+.maindiv-1{
+    height: 299px;
+    width: 1141px;
+    margin: auto;
+}
+.maindiv-2{
+    height: 299px;
+    width: 1140px;
+    background-image: url(images/gradient2.png),url(images/watch.png);
+    margin: auto;
+}
+/*Plan*/
+.picture-div{
+    display: flex;
+   justify-content: space-between;  
+   text-align: center; 
+}
+.Plans{
+    font-size:25px ;
+    font-weight: 800px;  
+    text-align: center;
+    margin-top: 10px;
+}
+
+
+/*picture & text section*/
+.Always{
+    height: 182px;
+    width: 459px;
+    display: grid;
+    align-items: flex-start;
+    margin-left: 64px;
+    margin-top: 59px;
+    padding-left: 10px;
+    font-size:25px ;
+    font-weight: 800px; 
+    color: #ffffff;
+}
+/*footer-section*/
+.footer-section{
+    color: #ffffff;
+    background-color: #000000;
+    margin-top: 130px;
+    display: flex;
+    gap: 150px;
+    padding: 60px 220px;
+}
+.div-footer{
+    width: 485px;
+    height: 317px;
+}
+.future{
+    font-size:15px ;
+    font-weight: 700px;
+}
+.first-form{
+    height:204px;
+    width: 325px;
+}
+.input{
+    width: 100%;
+    border: 2px solid white;
+    height:40px ;
+    border-radius: 5px;
+    padding-top: 2px;
+}
+
